@@ -1,0 +1,13 @@
+{
+  "description": "Template only. Replace paths and null dimensions with measurements from the matching CoppeliaSim scene.",
+  "robot": "/CHANGE_TO_ROBOT_PATH",
+  "left_joints": ["/CHANGE_TO_ROBOT_PATH/leftMotor"],
+  "right_joints": ["/CHANGE_TO_ROBOT_PATH/rightMotor"],
+  "wheel_radius": null,
+  "wheel_separation": null,
+  "footprint_radius": null,
+  "left_sign": 1,
+  "right_sign": 1,
+  "map_to_scene": [0.0, 0.0, 0.0],
+  "robot_forward_yaw": 0.0
+}

@@ -1,0 +1,76 @@
+{
+  "format": "gzip",
+  "originals_preserved": true,
+  "recordings": [
+    {
+      "original": "maps/20260928_000056_445844/data.csv",
+      "archive": "maps/20260928_000056_445844/data.csv.gz",
+      "original_bytes": 10683144,
+      "archive_bytes": 2724985,
+      "sha256": "14a48d200a3b597c275e8adbb51617537fb20f8fad847d717b6f036c9084b2f6"
+    },
+    {
+      "original": "maps/20260928_001149_137318/data.csv",
+      "archive": "maps/20260928_001149_137318/data.csv.gz",
+      "original_bytes": 50094760,
+      "archive_bytes": 13798948,
+      "sha256": "9a3361de2cc8cb72772cb4d8bd66c36ffcc45622eed8b0aa3e0b60f5c8e205be"
+    },
+    {
+      "original": "maps/array_20261015_000439_542880/data.csv",
+      "archive": "maps/array_20261015_000439_542880/data.csv.gz",
+      "original_bytes": 145896020,
+      "archive_bytes": 40675128,
+      "sha256": "7c5f2b76e5b3f36f3301f6ebb7ce09c983afa10b4f20d9a85dd721d9f678b86e"
+    },
+    {
+      "original": "maps/array_20261015_130215_296406/data.csv",
+      "archive": "maps/array_20261015_130215_296406/data.csv.gz",
+      "original_bytes": 147876288,
+      "archive_bytes": 41262427,
+      "sha256": "6f3e5e9d65d15d61e2c01c03218f88d24667b7813365daf5c01fa7d2bf398ff8"
+    },
+    {
+      "original": "maps/auto_20261014_154747_457709/data.csv",
+      "archive": "maps/auto_20261014_154747_457709/data.csv.gz",
+      "original_bytes": 6022552,
+      "archive_bytes": 1644767,
+      "sha256": "af7fe44467b13923d1443120b2ee35ceaab485c57be6ae5617abeb98319feffb"
+    },
+    {
+      "original": "maps/auto_20261014_155642_649208/data.csv",
+      "archive": "maps/auto_20261014_155642_649208/data.csv.gz",
+      "original_bytes": 5340427,
+      "archive_bytes": 1458641,
+      "sha256": "869caed91df886ede8f4d5bf42193ad4396806765f3a7e8af7a6956dc7d8c6db"
+    },
+    {
+      "original": "maps/auto_20261014_155848_137163/data.csv",
+      "archive": "maps/auto_20261014_155848_137163/data.csv.gz",
+      "original_bytes": 20119654,
+      "archive_bytes": 5478309,
+      "sha256": "2eb128060b7a02c7d4fad53f51abc8c71ea3f86e280ae3551fd832aa59aa0223"
+    },
+    {
+      "original": "maps/auto_20261014_160140_764208/data.csv",
+      "archive": "maps/auto_20261014_160140_764208/data.csv.gz",
+      "original_bytes": 25051957,
+      "archive_bytes": 6818801,
+      "sha256": "96194e4041618ba111c54f0b9f2b002e0fc324c71a22c176cd09a5962208c4b6"
+    },
+    {
+      "original": "maps/auto_20261014_160541_048549/data.csv",
+      "archive": "maps/auto_20261014_160541_048549/data.csv.gz",
+      "original_bytes": 25271037,
+      "archive_bytes": 6878133,
+      "sha256": "a4189867c62a7b7707421320755198207513ca6a80995af3a75bbe3c51195118"
+    },
+    {
+      "original": "maps/rooms_20261014_162730_026401/data.csv",
+      "archive": "maps/rooms_20261014_162730_026401/data.csv.gz",
+      "original_bytes": 6186160,
+      "archive_bytes": 1686604,
+      "sha256": "0fff3666279865e816471b88734f38d191ebf684a168685e04b79f2438e920d8"
+    }
+  ]
+}

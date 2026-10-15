@@ -1,0 +1,7 @@
+# Preserve measured/exported arrays byte-for-byte, including CSV line endings.
+# Numeric datasets are snapshots; avoid huge textual diffs or automatic merges.
+*.csv binary
+*.npy binary
+*.gz binary
+*.zip binary
+*.png binary

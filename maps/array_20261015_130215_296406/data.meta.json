@@ -1,0 +1,24 @@
+{
+  "rays": 720,
+  "scan_topic": "/scan",
+  "pose_frame": "odom",
+  "base_frame": "base_footprint",
+  "sensor_frame": "lidar_link",
+  "angle_min": -3.1415927410125732,
+  "angle_increment": 0.008738783188164234,
+  "range_min": 0.15000000596046448,
+  "range_max": 12.0,
+  "sensor_x": 0.0,
+  "sensor_y": 0.0,
+  "sensor_yaw": 0.0,
+  "world_from_pose": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "csv_header": false,
+  "pose_reference": "sensor",
+  "pose_policy": "Gazebo PoseArray index 0, verified research_robot; linear position/shortest-yaw interpolation at scan stamp",
+  "world_pose_topic": "/ocgm/array_world_pose_37419",
+  "angles": "sensor-relative radians"
+}

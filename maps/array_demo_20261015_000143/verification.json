@@ -1,0 +1,24 @@
+{
+  "waypoints": 32,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "pose_samples": 11386,
+  "scans": 5769,
+  "grid_shape": [
+    340,
+    420
+  ],
+  "unknown_fraction": 0.1874859943977591,
+  "measured_endpoint_error_p95": 0.020299597327248488,
+  "endpoint_occupied_fraction": 0.9599592312172394,
+  "final_pose": [
+    -1.1928104500376053,
+    -0.00879446421897981,
+    0.045580749369815626
+  ]
+}

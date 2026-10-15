@@ -1,0 +1,26 @@
+# Python-generated files and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Runtime process state, not reusable project assets
+.runtime/
+maps/active_session.json
+maps/.mapping.lock
+maps/.drive.lock
+maps/**/session.json
+maps/**/.live_ready
+maps/**/*.live_ready
+
+# Full LiDAR recordings are backed up losslessly as data.csv.gz.
+# See GIT_BACKUP.md and git_data_manifest.json for restoration and hashes.
+/maps/**/data.csv
+
+# Local credentials, when present
+.env
+.env.*
+!.env.example
+*.pem
+*.key

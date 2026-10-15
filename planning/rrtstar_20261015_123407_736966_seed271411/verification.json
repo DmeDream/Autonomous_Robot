@@ -1,0 +1,40 @@
+{
+  "measured_map_sha256": "6ef02abceedb4111886507e1a6b8d3bfda2142cf2cd74ea0d551bd92cc0bc106",
+  "map_unchanged": true,
+  "results": [
+    {
+      "seed": 0,
+      "nodes": 19,
+      "length_m": 16.85753852018022,
+      "minimum_disk_clearance_bound_m": 0.6466672905187809,
+      "rewires": 3196,
+      "ideal_tracking_goal_error_m": 0.037860527843807355
+    },
+    {
+      "seed": 42,
+      "nodes": 29,
+      "length_m": 21.310406987036206,
+      "minimum_disk_clearance_bound_m": 0.6578257339656075,
+      "rewires": 3351,
+      "ideal_tracking_goal_error_m": 0.036981892586641675
+    },
+    {
+      "seed": 271411,
+      "nodes": 21,
+      "length_m": 13.744686276933681,
+      "minimum_disk_clearance_bound_m": 0.6496419685816652,
+      "rewires": 3777,
+      "ideal_tracking_goal_error_m": 0.03965427808898352
+    },
+    {
+      "seed": 660610823,
+      "nodes": 14,
+      "length_m": 8.819326468963997,
+      "minimum_disk_clearance_bound_m": 0.65303743791078,
+      "rewires": 2763,
+      "ideal_tracking_goal_error_m": 0.03863885737443251
+    }
+  ],
+  "exports_checked": "/home/d-dream/autonomous robot/planning/rrtstar_20261015_123407_736966_seed271411",
+  "simulator": "No CoppeliaSim runtime used; tracking checked on ideal differential-drive model only"
+}

@@ -1,0 +1,12 @@
+{
+  "columns": [
+    "x",
+    "y",
+    "r"
+  ],
+  "frame": "world",
+  "angle_unit": "radians",
+  "time": "Gazebo simulation seconds",
+  "samples": 31522,
+  "delta": "pose[t] - pose[t-1], with dr wrapped to [-pi, pi]"
+}

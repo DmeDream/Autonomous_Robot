@@ -1,0 +1,20 @@
+{
+  "reason": "route complete",
+  "reached": 3,
+  "total": 3,
+  "targets": [
+    [
+      -8,
+      0
+    ],
+    [
+      8,
+      0
+    ],
+    [
+      -1,
+      0
+    ]
+  ],
+  "coverage": "Measured LiDAR only; occluded areas remain unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "resolution": 0.05,
+  "extent": [
+    -10.5,
+    10.5,
+    -8.5,
+    8.5
+  ],
+  "shape": [
+    340,
+    420
+  ],
+  "layout": "rows increase world Y; columns increase world X; cell-center coordinates",
+  "scans": 1866,
+  "scans_used": 374,
+  "scan_stride": 5
+}

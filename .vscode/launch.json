@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Collect Gazebo Map",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/collect_map.py",
+            "python": "/usr/bin/python3",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true,
+            "subProcess": false
+        }
+    ]
+}
